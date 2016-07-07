@@ -33,6 +33,7 @@ public class HomeController  {
 		String formattedDate = dateFormat.format(date);
 		
 		System.out.println("Hello Spring");
+		System.out.println("Second Commit");
 		
 		model.addAttribute("serverTime", formattedDate );
 		
