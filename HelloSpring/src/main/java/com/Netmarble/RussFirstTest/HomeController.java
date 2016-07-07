@@ -35,7 +35,7 @@ public class HomeController  {
 		System.out.println("Hello Spring");
 		System.out.println("Second Commit");
                                    
-		System.out.println("Modified by me");
+		System.out.println("Modified by me ");
 		
 		System.out.println("Modified by other");
 
