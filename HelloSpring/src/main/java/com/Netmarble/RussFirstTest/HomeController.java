@@ -39,10 +39,9 @@ public class HomeController  {
 		
 		System.out.println("Modified by other");
 
+	
 		
-		
-		
-		
+		System.out.println("Fetch");
 		model.addAttribute("serverTime", formattedDate );
 		
 		return "home";
